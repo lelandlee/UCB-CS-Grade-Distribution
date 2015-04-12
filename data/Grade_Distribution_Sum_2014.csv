@@ -1,0 +1,152 @@
+Grade Sort Nbr,Enrollment Cnt,% Grades Receivedof Enrollment,Letter Grd Cnt,Course Control Nbr,Instructor Name,Average Grade,Course Subject Short Nm,Course Number,Section Nbr,Grade Subtype Desc,Grade Type Desc,Grade Nm,Course Title Nm
+1,7,,,28605,Pierce Vollucci,4,Computer Science,10,1,A,Letter Grade,A+,Beauty Joy Computng
+2,11,,,28605,Pierce Vollucci,4,Computer Science,10,1,A,Letter Grade,A,Beauty Joy Computng
+3,11,,,28605,Pierce Vollucci,3.7,Computer Science,10,1,A,Letter Grade,A-,Beauty Joy Computng
+4,4,,,28605,Pierce Vollucci,3.3,Computer Science,10,1,B,Letter Grade,B+,Beauty Joy Computng
+5,3,,,28605,Pierce Vollucci,3,Computer Science,10,1,B,Letter Grade,B,Beauty Joy Computng
+6,3,,,28605,Pierce Vollucci,2.7,Computer Science,10,1,B,Letter Grade,B-,Beauty Joy Computng
+7,1,,,28605,Pierce Vollucci,2.3,Computer Science,10,1,C,Letter Grade,C+,Beauty Joy Computng
+8,1,,,28605,Pierce Vollucci,2,Computer Science,10,1,C,Letter Grade,C,Beauty Joy Computng
+9,1,,,28605,Pierce Vollucci,1.7,Computer Science,10,1,C,Letter Grade,C-,Beauty Joy Computng
+13,4,,,28605,Pierce Vollucci,0,Computer Science,10,1,F,Letter Grade,F,Beauty Joy Computng
+22,4,,,28605,Pierce Vollucci,,Computer Science,10,1,Credit,Non-Letter Grade,Pass,Beauty Joy Computng
+25,1,,,28605,Pierce Vollucci,,Computer Science,10,1,Credit,Non-Letter Grade,Satisfactory,Beauty Joy Computng
+27,2,,,28605,Pierce Vollucci,,Computer Science,10,1,No Credit,Non-Letter Grade,Not Pass,Beauty Joy Computng
+1,20,,,28630,Rohin Shah; Shidi Huang,4,Computer Science,61A,1,A,Letter Grade,A+,Str Interp Cmp Prgs
+2,24,,,28630,Rohin Shah; Shidi Huang,4,Computer Science,61A,1,A,Letter Grade,A,Str Interp Cmp Prgs
+3,5,,,28630,Rohin Shah; Shidi Huang,3.7,Computer Science,61A,1,A,Letter Grade,A-,Str Interp Cmp Prgs
+4,27,,,28630,Rohin Shah; Shidi Huang,3.3,Computer Science,61A,1,B,Letter Grade,B+,Str Interp Cmp Prgs
+5,29,,,28630,Rohin Shah; Shidi Huang,3,Computer Science,61A,1,B,Letter Grade,B,Str Interp Cmp Prgs
+6,25,,,28630,Rohin Shah; Shidi Huang,2.7,Computer Science,61A,1,B,Letter Grade,B-,Str Interp Cmp Prgs
+7,7,,,28630,Rohin Shah; Shidi Huang,2.3,Computer Science,61A,1,C,Letter Grade,C+,Str Interp Cmp Prgs
+8,8,,,28630,Rohin Shah; Shidi Huang,2,Computer Science,61A,1,C,Letter Grade,C,Str Interp Cmp Prgs
+9,8,,,28630,Rohin Shah; Shidi Huang,1.7,Computer Science,61A,1,C,Letter Grade,C-,Str Interp Cmp Prgs
+10,8,,,28630,Rohin Shah; Shidi Huang,1.3,Computer Science,61A,1,D,Letter Grade,D+,Str Interp Cmp Prgs
+11,3,,,28630,Rohin Shah; Shidi Huang,1,Computer Science,61A,1,D,Letter Grade,D,Str Interp Cmp Prgs
+12,4,,,28630,Rohin Shah; Shidi Huang,0.7,Computer Science,61A,1,D,Letter Grade,D-,Str Interp Cmp Prgs
+13,13,,,28630,Rohin Shah; Shidi Huang,0,Computer Science,61A,1,F,Letter Grade,F,Str Interp Cmp Prgs
+22,17,,,28630,Rohin Shah; Shidi Huang,,Computer Science,61A,1,Credit,Non-Letter Grade,Pass,Str Interp Cmp Prgs
+27,14,,,28630,Rohin Shah; Shidi Huang,,Computer Science,61A,1,No Credit,Non-Letter Grade,Not Pass,Str Interp Cmp Prgs
+28,2,,,28630,Rohin Shah; Shidi Huang,,Computer Science,61A,1,No Credit,Non-Letter Grade,Unsatisfactory,Str Interp Cmp Prgs
+30,3,,,28630,Rohin Shah; Shidi Huang,,Computer Science,61A,1,Administrative Code,Administrative Code,Incomplete,Str Interp Cmp Prgs
+1,13,,,28633,Rohin Shah; Shidi Huang,4,Computer Science,61A,2,A,Letter Grade,A+,Str Interp Cmp Prgs
+2,7,,,28633,Rohin Shah; Shidi Huang,4,Computer Science,61A,2,A,Letter Grade,A,Str Interp Cmp Prgs
+3,2,,,28633,Rohin Shah; Shidi Huang,3.7,Computer Science,61A,2,A,Letter Grade,A-,Str Interp Cmp Prgs
+4,9,,,28633,Rohin Shah; Shidi Huang,3.3,Computer Science,61A,2,B,Letter Grade,B+,Str Interp Cmp Prgs
+5,8,,,28633,Rohin Shah; Shidi Huang,3,Computer Science,61A,2,B,Letter Grade,B,Str Interp Cmp Prgs
+6,10,,,28633,Rohin Shah; Shidi Huang,2.7,Computer Science,61A,2,B,Letter Grade,B-,Str Interp Cmp Prgs
+7,2,,,28633,Rohin Shah; Shidi Huang,2.3,Computer Science,61A,2,C,Letter Grade,C+,Str Interp Cmp Prgs
+8,3,,,28633,Rohin Shah; Shidi Huang,2,Computer Science,61A,2,C,Letter Grade,C,Str Interp Cmp Prgs
+9,2,,,28633,Rohin Shah; Shidi Huang,1.7,Computer Science,61A,2,C,Letter Grade,C-,Str Interp Cmp Prgs
+10,1,,,28633,Rohin Shah; Shidi Huang,1.3,Computer Science,61A,2,D,Letter Grade,D+,Str Interp Cmp Prgs
+13,6,,,28633,Rohin Shah; Shidi Huang,0,Computer Science,61A,2,F,Letter Grade,F,Str Interp Cmp Prgs
+22,7,,,28633,Rohin Shah; Shidi Huang,,Computer Science,61A,2,Credit,Non-Letter Grade,Pass,Str Interp Cmp Prgs
+27,3,,,28633,Rohin Shah; Shidi Huang,,Computer Science,61A,2,No Credit,Non-Letter Grade,Not Pass,Str Interp Cmp Prgs
+30,2,,,28633,Rohin Shah; Shidi Huang,,Computer Science,61A,2,Administrative Code,Administrative Code,Incomplete,Str Interp Cmp Prgs
+1,12,,,28695,Edwin Liao,4,Computer Science,61BL,1,A,Letter Grade,A+,Data Strs Prog Meth
+2,26,,,28695,Edwin Liao,4,Computer Science,61BL,1,A,Letter Grade,A,Data Strs Prog Meth
+3,35,,,28695,Edwin Liao,3.7,Computer Science,61BL,1,A,Letter Grade,A-,Data Strs Prog Meth
+4,41,,,28695,Edwin Liao,3.3,Computer Science,61BL,1,B,Letter Grade,B+,Data Strs Prog Meth
+5,39,,,28695,Edwin Liao,3,Computer Science,61BL,1,B,Letter Grade,B,Data Strs Prog Meth
+6,26,,,28695,Edwin Liao,2.7,Computer Science,61BL,1,B,Letter Grade,B-,Data Strs Prog Meth
+7,17,,,28695,Edwin Liao,2.3,Computer Science,61BL,1,C,Letter Grade,C+,Data Strs Prog Meth
+8,21,,,28695,Edwin Liao,2,Computer Science,61BL,1,C,Letter Grade,C,Data Strs Prog Meth
+9,12,,,28695,Edwin Liao,1.7,Computer Science,61BL,1,C,Letter Grade,C-,Data Strs Prog Meth
+11,3,,,28695,Edwin Liao,1,Computer Science,61BL,1,D,Letter Grade,D,Data Strs Prog Meth
+13,16,,,28695,Edwin Liao,0,Computer Science,61BL,1,F,Letter Grade,F,Data Strs Prog Meth
+22,16,,,28695,Edwin Liao,,Computer Science,61BL,1,Credit,Non-Letter Grade,Pass,Data Strs Prog Meth
+27,13,,,28695,Edwin Liao,,Computer Science,61BL,1,No Credit,Non-Letter Grade,Not Pass,Data Strs Prog Meth
+28,1,,,28695,Edwin Liao,,Computer Science,61BL,1,No Credit,Non-Letter Grade,Unsatisfactory,Data Strs Prog Meth
+30,1,,,28695,Edwin Liao,,Computer Science,61BL,1,Administrative Code,Administrative Code,Incomplete,Data Strs Prog Meth
+1,5,,,28730,Alan Christopher; Daniel Garcia,4,Computer Science,61C,1,A,Letter Grade,A+,Machine Structures
+2,35,,,28730,Alan Christopher; Daniel Garcia,4,Computer Science,61C,1,A,Letter Grade,A,Machine Structures
+3,14,,,28730,Alan Christopher; Daniel Garcia,3.7,Computer Science,61C,1,A,Letter Grade,A-,Machine Structures
+4,10,,,28730,Alan Christopher; Daniel Garcia,3.3,Computer Science,61C,1,B,Letter Grade,B+,Machine Structures
+5,38,,,28730,Alan Christopher; Daniel Garcia,3,Computer Science,61C,1,B,Letter Grade,B,Machine Structures
+6,16,,,28730,Alan Christopher; Daniel Garcia,2.7,Computer Science,61C,1,B,Letter Grade,B-,Machine Structures
+7,6,,,28730,Alan Christopher; Daniel Garcia,2.3,Computer Science,61C,1,C,Letter Grade,C+,Machine Structures
+8,1,,,28730,Alan Christopher; Daniel Garcia,2,Computer Science,61C,1,C,Letter Grade,C,Machine Structures
+9,2,,,28730,Alan Christopher; Daniel Garcia,1.7,Computer Science,61C,1,C,Letter Grade,C-,Machine Structures
+11,3,,,28730,Alan Christopher; Daniel Garcia,1,Computer Science,61C,1,D,Letter Grade,D,Machine Structures
+13,14,,,28730,Alan Christopher; Daniel Garcia,0,Computer Science,61C,1,F,Letter Grade,F,Machine Structures
+22,1,,,28730,Alan Christopher; Daniel Garcia,,Computer Science,61C,1,Credit,Non-Letter Grade,Pass,Machine Structures
+27,8,,,28730,Alan Christopher; Daniel Garcia,,Computer Science,61C,1,No Credit,Non-Letter Grade,Not Pass,Machine Structures
+1,7,,,28795,James Cook,4,Computer Science,70,1,A,Letter Grade,A+,Discrete Math&Prob
+2,39,,,28795,James Cook,4,Computer Science,70,1,A,Letter Grade,A,Discrete Math&Prob
+3,16,,,28795,James Cook,3.7,Computer Science,70,1,A,Letter Grade,A-,Discrete Math&Prob
+4,26,,,28795,James Cook,3.3,Computer Science,70,1,B,Letter Grade,B+,Discrete Math&Prob
+5,57,,,28795,James Cook,3,Computer Science,70,1,B,Letter Grade,B,Discrete Math&Prob
+6,25,,,28795,James Cook,2.7,Computer Science,70,1,B,Letter Grade,B-,Discrete Math&Prob
+7,15,,,28795,James Cook,2.3,Computer Science,70,1,C,Letter Grade,C+,Discrete Math&Prob
+8,17,,,28795,James Cook,2,Computer Science,70,1,C,Letter Grade,C,Discrete Math&Prob
+9,3,,,28795,James Cook,1.7,Computer Science,70,1,C,Letter Grade,C-,Discrete Math&Prob
+13,13,,,28795,James Cook,0,Computer Science,70,1,F,Letter Grade,F,Discrete Math&Prob
+22,4,,,28795,James Cook,,Computer Science,70,1,Credit,Non-Letter Grade,Pass,Discrete Math&Prob
+27,5,,,28795,James Cook,,Computer Science,70,1,No Credit,Non-Letter Grade,Not Pass,Discrete Math&Prob
+22,11,,,28830,Paul Hilfinger,,Computer Science,97,1,Credit,Non-Letter Grade,Pass,Field Study
+22,10,,,28840,Daniel Garcia,,Computer Science,97,200,Credit,Non-Letter Grade,Pass,Field Study
+22,1,,,28860,Brian Harvey,,Computer Science,99,3,Credit,Non-Letter Grade,Pass,Superv Indep Study
+1,4,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,4,Computer Science,188,1,A,Letter Grade,A+,Artif Intelligence
+2,12,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,4,Computer Science,188,1,A,Letter Grade,A,Artif Intelligence
+3,9,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,3.7,Computer Science,188,1,A,Letter Grade,A-,Artif Intelligence
+4,11,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,3.3,Computer Science,188,1,B,Letter Grade,B+,Artif Intelligence
+5,6,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,3,Computer Science,188,1,B,Letter Grade,B,Artif Intelligence
+6,8,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,2.7,Computer Science,188,1,B,Letter Grade,B-,Artif Intelligence
+7,3,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,2.3,Computer Science,188,1,C,Letter Grade,C+,Artif Intelligence
+8,2,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,2,Computer Science,188,1,C,Letter Grade,C,Artif Intelligence
+13,1,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,0,Computer Science,188,1,F,Letter Grade,F,Artif Intelligence
+30,1,,,28863,Daniel Garcia; Jonathan Kay Kummerfeld; Taylor Berg-Kirkpatrick,,Computer Science,188,1,Administrative Code,Administrative Code,Incomplete,Artif Intelligence
+22,74,,,28865,Paul Hilfinger,,Computer Science,197,1,Credit,Non-Letter Grade,Pass,Field Study
+27,4,,,28865,Paul Hilfinger,,Computer Science,197,1,No Credit,Non-Letter Grade,Not Pass,Field Study
+32,9,,,28865,Paul Hilfinger,,Computer Science,197,1,Administrative Code,Administrative Code,Not Reported,Field Study
+22,12,,,28890,Daniel Garcia,,Computer Science,197,200,Credit,Non-Letter Grade,Pass,Field Study
+25,1,,,28890,Daniel Garcia,,Computer Science,197,200,Credit,Non-Letter Grade,Satisfactory,Field Study
+22,20,,,28995,David Culler,,Computer Science,199,20,Credit,Non-Letter Grade,Pass,Superv Indep Study
+25,1,,,29045,Bjorn Hartmann,,Computer Science,297,2,Credit,Non-Letter Grade,Satisfactory,Field Studies In Cs
+22,1,,,29048,Paul Hilfinger,,Computer Science,297,3,Credit,Non-Letter Grade,Pass,Field Studies In Cs
+25,1,,,29050,Maneesh Agrawala,,Computer Science,299,1,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29065,Eric Brewer,,Computer Science,299,4,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29070,John Canny,,Computer Science,299,5,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29075,David Culler,,Computer Science,299,6,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29080,James Demmel,,Computer Science,299,7,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29090,Trevor Darrell,,Computer Science,299,9,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,29095,Pieter Abbeel,,Computer Science,299,10,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+36,1,,,29095,Pieter Abbeel,,Computer Science,299,10,Administrative Code,Administrative Code,Unknown,Indiv Research
+25,1,,,29100,Michael Franklin,,Computer Science,299,11,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29115,Joseph Hellerstein,,Computer Science,299,14,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29130,Michael Jordan,,Computer Science,299,17,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29150,Randy Katz,,Computer Science,299,21,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29165,Jitendra Malik,,Computer Science,299,24,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,29170,Lior Pachter,,Computer Science,299,25,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29175,George Necula,,Computer Science,299,26,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29180,James O'Brien,,Computer Science,299,27,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29185,Christos Papadimitriou,,Computer Science,299,28,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,29195,Satish Rao,,Computer Science,299,30,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29200,Sylvia Ratnasamy,,Computer Science,299,31,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29205,Stuart Russell,,Computer Science,299,32,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29220,Alistair Sinclair,,Computer Science,299,35,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,29230,Ion Stoica,,Computer Science,299,37,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29250,David Wagner,,Computer Science,299,41,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29265,Katherine Yelick,,Computer Science,299,44,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29295,Scott Shenker,,Computer Science,299,50,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29300,Vern Paxson,,Computer Science,299,51,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29305,Koushik Sen,,Computer Science,299,52,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,29315,Krste Asanovic,,Computer Science,299,54,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,29330,Xiaodong Song,,Computer Science,299,57,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29350,Ravi Ramamoorthi,,Computer Science,299,61,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,29355,Eric Paulos,,Computer Science,299,62,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+22,37,,,29393,Victor Huang,,Computer Science,375,1,Credit,Non-Letter Grade,Pass,Teaching Techniques
+25,6,,,29393,Victor Huang,,Computer Science,375,1,Credit,Non-Letter Grade,Satisfactory,Teaching Techniques
+1,3,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,4,Computer Science,61AS,1,A,Letter Grade,A+,Str Interp Comp Prg
+2,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,4,Computer Science,61AS,1,A,Letter Grade,A,Str Interp Comp Prg
+3,3,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,3.7,Computer Science,61AS,1,A,Letter Grade,A-,Str Interp Comp Prg
+4,5,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,3.3,Computer Science,61AS,1,B,Letter Grade,B+,Str Interp Comp Prg
+5,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,3,Computer Science,61AS,1,B,Letter Grade,B,Str Interp Comp Prg
+6,2,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,2.7,Computer Science,61AS,1,B,Letter Grade,B-,Str Interp Comp Prg
+7,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,2.3,Computer Science,61AS,1,C,Letter Grade,C+,Str Interp Comp Prg
+8,2,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,2,Computer Science,61AS,1,C,Letter Grade,C,Str Interp Comp Prg
+10,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,1.3,Computer Science,61AS,1,D,Letter Grade,D+,Str Interp Comp Prg
+13,3,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,0,Computer Science,61AS,1,F,Letter Grade,F,Str Interp Comp Prg
+22,3,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,,Computer Science,61AS,1,Credit,Non-Letter Grade,Pass,Str Interp Comp Prg
+27,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,,Computer Science,61AS,1,No Credit,Non-Letter Grade,Not Pass,Str Interp Comp Prg
+30,1,,,29435,Rohin Shah; Shidi Huang; Vivek Rangaswamy,,Computer Science,61AS,1,Administrative Code,Administrative Code,Incomplete,Str Interp Comp Prg

@@ -1,12 +1,15 @@
 var data = []
 var process_data_F15 = [];
 var process_data_S14 = [];
+var process_data_Sum14 = [];
+var current_process_data = []
 
 //why is it empty
-loadData("Grade_Distribution_Fall_2014.csv", process_data_F15);
-loadData("Grade_Distribution_Spring_2015.csv", process_data_S14);
+loadData("Grade_Distribution_Fall_2014.csv", process_data_F15, 651);
+loadData("Grade_Distribution_Spring_2015.csv", process_data_S14, 651);
+loadData("Grade_Distribution_Sum_2014.csv", process_data_Sum14, 151);
 
-function loadData(fileName, dataPointer){
+function loadData(fileName, dataPointer, end){
 	d3.csv("data/" + fileName, function(d){
 		//can group here rather than afterwards, more efficient
 	  data.push({
@@ -17,9 +20,10 @@ function loadData(fileName, dataPointer){
 	    grade: d['Grade Nm'],
 	    size: d['Enrollment Cnt']
 	  })
-	  if(data.length == 651){
+	  if(data.length == end){
 	    console.log(data);
 	    dataPointer = process(data);
+	    data = []
 	  }
 	}, function(error, rows) {
 		console.log(error);
@@ -158,7 +162,6 @@ function processForParcoods(data){
 				gradeDistribution.d = percentage;
 			}
 			else{
-				console.log(gradeArray[g].grade);
 				if(count == 0)
 					skip = true;
 			}
@@ -218,6 +221,7 @@ function processForParcoods(data){
 
 	console.log(process_data);
 	createGraph(process_data);
+	current_process_data = process_data
 	data = process_data;
 	return data;
 }
@@ -234,21 +238,11 @@ function processForParcoods(data){
 setTimeout(function(){
 	document.getElementById("btn-1").addEventListener('click', function(){
 		console.log('btn-1')
-		var tempData = process_data_F15.slice();
+		var tempData = current_process_data.slice();
 		for(d in tempData){
-			if(tempData[d].totalStdnts < 100){
+			if(tempData[d].totalStdnts < 50){
 				var index = tempData.indexOf(tempData[d]);
-			}
-		}
-		console.log(tempData.length)
-		createGraph(tempData)
-	})
-	document.getElementById("btn-2").addEventListener('click', function(){
-		console.log('btn-2')
-		var tempData = process_data_S14.slice();
-		for(d in tempData){
-			if(tempData[d].totalStdnts < 100){
-				var index = tempData.indexOf(tempData[d]);
+				tempData.splice(index, 1)
 			}
 		}
 		console.log(tempData.length)
@@ -257,12 +251,17 @@ setTimeout(function(){
 	document.getElementById("btn-3").addEventListener('click', function(){
 		console.log('btn-4')
 		createGraph(process_data_F15.slice())
-		loadData("Grade_Distribution_Fall_2014.csv", process_data_F15);
+		loadData("Grade_Distribution_Fall_2014.csv", process_data_F15, 651);
 	})
 	document.getElementById("btn-4").addEventListener('click', function(){
 		console.log('btn-4')
 		createGraph(process_data_S14.slice())
-		loadData("Grade_Distribution_Spring_2015.csv", process_data_S14);
+		loadData("Grade_Distribution_Spring_2015.csv", process_data_S14, 651);
+	})
+	document.getElementById("btn-5").addEventListener('click', function(){
+		console.log('btn-4')
+		createGraph(process_data_Sum14.slice())
+		loadData("Grade_Distribution_Sum_2014.csv", process_data_Sum14, 151);
 	})
 },1000)
 
