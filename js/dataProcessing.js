@@ -1,25 +1,31 @@
 var data = []
-var process_data = [];
+var process_data_F15 = [];
+var process_data_S14 = [];
 
-d3.csv("data/Grade_Distribution_Fall_2014.csv", function(d){
-	//can group here rather than afterwards, more efficient
-  data.push({
-    ccn: d['Course Control Nbr'],
-    instructorName: d['Instructor Name'],
-    courseNumber: d['Course Number'],
-    courseName: d['Course Title Nm'],
-    grade: d['Grade Nm'],
-    size: d['Enrollment Cnt']
+//why is it empty
+loadData("Grade_Distribution_Fall_2014.csv", process_data_F15);
+loadData("Grade_Distribution_Spring_2015.csv", process_data_S14);
 
-  })
-  if(data.length == 651){
-    console.log(data);
-    process(data);
-  }
-}, function(error, rows) {
-	console.log(error);
-	console.log(rows);
-});
+function loadData(fileName, dataPointer){
+	d3.csv("data/" + fileName, function(d){
+		//can group here rather than afterwards, more efficient
+	  data.push({
+	    ccn: d['Course Control Nbr'],
+	    instructorName: d['Instructor Name'],
+	    courseNumber: d['Course Number'],
+	    courseName: d['Course Title Nm'],
+	    grade: d['Grade Nm'],
+	    size: d['Enrollment Cnt']
+	  })
+	  if(data.length == 651){
+	    console.log(data);
+	    dataPointer = process(data);
+	  }
+	}, function(error, rows) {
+		console.log(error);
+		console.log(rows);
+	});
+}
 
 function process(data){
 	var process_data = {}
@@ -54,10 +60,9 @@ function process(data){
 			total = +data[d].size;
 		}
 	}
-	data = process_data;
 	console.log(process_data);
-	//output(process_data);
-	processForParcoods(process_data)
+	data = process_data
+	return processForParcoods(data);
 }
 
 /*###################
@@ -74,6 +79,7 @@ obj. literal with CCN as keys
 
 //process original data
 function processForParcoods(data){
+	var process_data = []
 	for(d in data){
 		var gradeDistribution = {
 			aPlus: 0,
@@ -210,9 +216,10 @@ function processForParcoods(data){
 		f: 0,
 	})
 
-	process_data = process_data;
 	console.log(process_data);
 	createGraph(process_data);
+	data = process_data;
+	return data;
 }
 
 /*Data representation
@@ -227,7 +234,7 @@ function processForParcoods(data){
 setTimeout(function(){
 	document.getElementById("btn-1").addEventListener('click', function(){
 		console.log('btn-1')
-		var tempData = process_data.slice();
+		var tempData = process_data_F15.slice();
 		for(d in tempData){
 			if(tempData[d].totalStdnts < 100){
 				var index = tempData.indexOf(tempData[d]);
@@ -238,7 +245,24 @@ setTimeout(function(){
 	})
 	document.getElementById("btn-2").addEventListener('click', function(){
 		console.log('btn-2')
-		createGraph(process_data)
+		var tempData = process_data_S14.slice();
+		for(d in tempData){
+			if(tempData[d].totalStdnts < 100){
+				var index = tempData.indexOf(tempData[d]);
+			}
+		}
+		console.log(tempData.length)
+		createGraph(tempData)
+	})
+	document.getElementById("btn-3").addEventListener('click', function(){
+		console.log('btn-4')
+		createGraph(process_data_F15.slice())
+		loadData("Grade_Distribution_Fall_2014.csv", process_data_F15);
+	})
+	document.getElementById("btn-4").addEventListener('click', function(){
+		console.log('btn-4')
+		createGraph(process_data_S14.slice())
+		loadData("Grade_Distribution_Spring_2015.csv", process_data_S14);
 	})
 },1000)
 
@@ -248,25 +272,10 @@ function createGraph(data){
 	  .range(["brown", "#999", "#999", "steelblue"]);
 
   var color = function(d) { return colorgen(d.name); };
-  var dimensionTitles= {
-		1: 'A+',
-		2: 'A',
-		3: 'A-',
-		4: 'B+',
-		5: 'B',
-		6: 'B-',
-		7: 'C+',
-		8: 'C-',
-		9: 'D+',
-		10: 'D',
-		11: 'D-',
-		12: 'F'
- 	};
 
   var parcoords = d3.parcoords()("#chartArea")
 		.data(data)
     .color(color)
-    .dimensionTitles(dimensionTitles)
     .alpha(0.30)
     .margin({ top: 24, left: 160, bottom: 12, right: -30 })
     .mode("queue")
