@@ -1,0 +1,541 @@
+Grade Sort Nbr,Enrollment Cnt,% Grades Receivedof Enrollment,Letter Grd Cnt,Course Control Nbr,Instructor Name,Average Grade,Course Subject Short Nm,Course Number,Section Nbr,Grade Subtype Desc,Grade Type Desc,Grade Nm,Course Title Nm
+22,2,,,26003,Paul Hilfinger,,Computer Science,9A,1,Credit,Non-Letter Grade,Pass,Programmers' Matlab
+27,4,,,26003,Paul Hilfinger,,Computer Science,9A,1,No Credit,Non-Letter Grade,Not Pass,Programmers' Matlab
+30,4,,,26003,Paul Hilfinger,,Computer Science,9A,1,Administrative Code,Administrative Code,Incomplete,Programmers' Matlab
+36,2,,,26003,Paul Hilfinger,,Computer Science,9A,1,Administrative Code,Administrative Code,Unknown,Programmers' Matlab
+22,8,,,26006,Paul Hilfinger,,Computer Science,9C,1,Credit,Non-Letter Grade,Pass,Programmers' C
+27,5,,,26006,Paul Hilfinger,,Computer Science,9C,1,No Credit,Non-Letter Grade,Not Pass,Programmers' C
+30,1,,,26006,Paul Hilfinger,,Computer Science,9C,1,Administrative Code,Administrative Code,Incomplete,Programmers' C
+22,3,,,26009,Paul Hilfinger,,Computer Science,9D,1,Credit,Non-Letter Grade,Pass,Programmers' Scheme
+22,26,,,26011,David Culler; Katherine Yelick,,Computer Science,24,2,Credit,Non-Letter Grade,Pass,Freshman Seminars
+22,35,,,26012,Paul Hilfinger,,Computer Science,9E,1,Credit,Non-Letter Grade,Pass,Productive Unix Use
+27,31,,,26012,Paul Hilfinger,,Computer Science,9E,1,No Credit,Non-Letter Grade,Not Pass,Productive Unix Use
+30,15,,,26012,Paul Hilfinger,,Computer Science,9E,1,Administrative Code,Administrative Code,Incomplete,Productive Unix Use
+36,4,,,26012,Paul Hilfinger,,Computer Science,9E,1,Administrative Code,Administrative Code,Unknown,Productive Unix Use
+22,20,,,26015,Paul Hilfinger,,Computer Science,9F,1,Credit,Non-Letter Grade,Pass,Programmers' C++
+25,2,,,26015,Paul Hilfinger,,Computer Science,9F,1,Credit,Non-Letter Grade,Satisfactory,Programmers' C++
+27,11,,,26015,Paul Hilfinger,,Computer Science,9F,1,No Credit,Non-Letter Grade,Not Pass,Programmers' C++
+30,11,,,26015,Paul Hilfinger,,Computer Science,9F,1,Administrative Code,Administrative Code,Incomplete,Programmers' C++
+36,1,,,26015,Paul Hilfinger,,Computer Science,9F,1,Administrative Code,Administrative Code,Unknown,Programmers' C++
+22,10,,,26018,Paul Hilfinger,,Computer Science,9G,1,Credit,Non-Letter Grade,Pass,Programmers' Java
+27,4,,,26018,Paul Hilfinger,,Computer Science,9G,1,No Credit,Non-Letter Grade,Not Pass,Programmers' Java
+30,5,,,26018,Paul Hilfinger,,Computer Science,9G,1,Administrative Code,Administrative Code,Incomplete,Programmers' Java
+36,2,,,26018,Paul Hilfinger,,Computer Science,9G,1,Administrative Code,Administrative Code,Unknown,Programmers' Java
+22,16,,,26021,Paul Hilfinger,,Computer Science,9H,1,Credit,Non-Letter Grade,Pass,Programmers' Python
+25,2,,,26021,Paul Hilfinger,,Computer Science,9H,1,Credit,Non-Letter Grade,Satisfactory,Programmers' Python
+27,11,,,26021,Paul Hilfinger,,Computer Science,9H,1,No Credit,Non-Letter Grade,Not Pass,Programmers' Python
+30,6,,,26021,Paul Hilfinger,,Computer Science,9H,1,Administrative Code,Administrative Code,Incomplete,Programmers' Python
+22,24,,,26023,Michael Lannin; Pieter Abbeel,,Computer Science,98,40,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+1,35,,,26024,Daniel Garcia,4,Computer Science,10,1,A,Letter Grade,A+,Beauty Joy Computng
+2,82,,,26024,Daniel Garcia,4,Computer Science,10,1,A,Letter Grade,A,Beauty Joy Computng
+3,14,,,26024,Daniel Garcia,3.7,Computer Science,10,1,A,Letter Grade,A-,Beauty Joy Computng
+4,7,,,26024,Daniel Garcia,3.3,Computer Science,10,1,B,Letter Grade,B+,Beauty Joy Computng
+5,17,,,26024,Daniel Garcia,3,Computer Science,10,1,B,Letter Grade,B,Beauty Joy Computng
+6,5,,,26024,Daniel Garcia,2.7,Computer Science,10,1,B,Letter Grade,B-,Beauty Joy Computng
+7,4,,,26024,Daniel Garcia,2.3,Computer Science,10,1,C,Letter Grade,C+,Beauty Joy Computng
+8,6,,,26024,Daniel Garcia,2,Computer Science,10,1,C,Letter Grade,C,Beauty Joy Computng
+9,6,,,26024,Daniel Garcia,1.7,Computer Science,10,1,C,Letter Grade,C-,Beauty Joy Computng
+11,3,,,26024,Daniel Garcia,1,Computer Science,10,1,D,Letter Grade,D,Beauty Joy Computng
+13,8,,,26024,Daniel Garcia,0,Computer Science,10,1,F,Letter Grade,F,Beauty Joy Computng
+22,32,,,26024,Daniel Garcia,,Computer Science,10,1,Credit,Non-Letter Grade,Pass,Beauty Joy Computng
+27,16,,,26024,Daniel Garcia,,Computer Science,10,1,No Credit,Non-Letter Grade,Not Pass,Beauty Joy Computng
+30,1,,,26024,Daniel Garcia,,Computer Science,10,1,Administrative Code,Administrative Code,Incomplete,Beauty Joy Computng
+22,5,,,26026,Michael Lannin; Pieter Abbeel,,Computer Science,198,40,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+2,6,,,26028,Christos Papadimitriou,4,Computer Science,294,56,A,Letter Grade,A,Special Topics
+1,1,,,26029,Sanjit Seshia,4,Computer Science,294,98,A,Letter Grade,A+,Special Topics
+2,8,,,26029,Sanjit Seshia,4,Computer Science,294,98,A,Letter Grade,A,Special Topics
+3,3,,,26029,Sanjit Seshia,3.7,Computer Science,294,98,A,Letter Grade,A-,Special Topics
+4,1,,,26029,Sanjit Seshia,3.3,Computer Science,294,98,B,Letter Grade,B+,Special Topics
+22,24,,,26031,Paul Hilfinger,,Computer Science,98,100,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,5,,,26031,Paul Hilfinger,,Computer Science,98,100,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+32,1,,,26031,Paul Hilfinger,,Computer Science,98,100,Administrative Code,Administrative Code,Not Reported,Directed Group Stdy
+22,10,,,26032,Paul Hilfinger,,Computer Science,198,100,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+25,1,,,26032,Paul Hilfinger,,Computer Science,198,100,Credit,Non-Letter Grade,Satisfactory,Directed Group Stdy
+27,1,,,26032,Paul Hilfinger,,Computer Science,198,100,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+27,1,,,26034,Paul Hilfinger,,Computer Science,98,105,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,1,,,26035,Paul Hilfinger,,Computer Science,198,105,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,4,,,26041,Cameron Baradar; John Canny; Sam Kirschner,,Computer Science,98,41,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,3,,,26043,Cameron Baradar; John Canny; Sam Kirschner,,Computer Science,198,41,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,13,,,26044,Ben Sklaroff; Hurshal Patel; Paul Hilfinger,,Computer Science,98,30,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,1,,,26044,Ben Sklaroff; Hurshal Patel; Paul Hilfinger,,Computer Science,98,30,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,16,,,26046,Ben Sklaroff; Hurshal Patel; Paul Hilfinger,,Computer Science,198,30,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,4,,,26046,Ben Sklaroff; Hurshal Patel; Paul Hilfinger,,Computer Science,198,30,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,22,,,26047,Daniel Garcia; Shidi Huang,,Computer Science,98,42,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,19,,,26049,Daniel Garcia; Shidi Huang,,Computer Science,198,42,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,19,,,26086,David Culler; Katherine Yelick,,Computer Science,24,1,Credit,Non-Letter Grade,Pass,Freshman Seminars
+2,3,,,26090,Paul Hilfinger,4,Computer Science,47B,1,A,Letter Grade,A,Supl Data Structure
+27,3,,,26090,Paul Hilfinger,,Computer Science,47B,1,No Credit,Non-Letter Grade,Not Pass,Supl Data Structure
+30,3,,,26090,Paul Hilfinger,,Computer Science,47B,1,Administrative Code,Administrative Code,Incomplete,Supl Data Structure
+1,54,,,26096,Paul Hilfinger,4,Computer Science,61A,1,A,Letter Grade,A+,Str Interp Cmp Prgs
+2,54,,,26096,Paul Hilfinger,4,Computer Science,61A,1,A,Letter Grade,A,Str Interp Cmp Prgs
+3,48,,,26096,Paul Hilfinger,3.7,Computer Science,61A,1,A,Letter Grade,A-,Str Interp Cmp Prgs
+4,93,,,26096,Paul Hilfinger,3.3,Computer Science,61A,1,B,Letter Grade,B+,Str Interp Cmp Prgs
+5,69,,,26096,Paul Hilfinger,3,Computer Science,61A,1,B,Letter Grade,B,Str Interp Cmp Prgs
+6,57,,,26096,Paul Hilfinger,2.7,Computer Science,61A,1,B,Letter Grade,B-,Str Interp Cmp Prgs
+7,19,,,26096,Paul Hilfinger,2.3,Computer Science,61A,1,C,Letter Grade,C+,Str Interp Cmp Prgs
+8,13,,,26096,Paul Hilfinger,2,Computer Science,61A,1,C,Letter Grade,C,Str Interp Cmp Prgs
+9,9,,,26096,Paul Hilfinger,1.7,Computer Science,61A,1,C,Letter Grade,C-,Str Interp Cmp Prgs
+10,21,,,26096,Paul Hilfinger,1.3,Computer Science,61A,1,D,Letter Grade,D+,Str Interp Cmp Prgs
+11,14,,,26096,Paul Hilfinger,1,Computer Science,61A,1,D,Letter Grade,D,Str Interp Cmp Prgs
+12,6,,,26096,Paul Hilfinger,0.7,Computer Science,61A,1,D,Letter Grade,D-,Str Interp Cmp Prgs
+13,28,,,26096,Paul Hilfinger,0,Computer Science,61A,1,F,Letter Grade,F,Str Interp Cmp Prgs
+22,41,,,26096,Paul Hilfinger,,Computer Science,61A,1,Credit,Non-Letter Grade,Pass,Str Interp Cmp Prgs
+25,2,,,26096,Paul Hilfinger,,Computer Science,61A,1,Credit,Non-Letter Grade,Satisfactory,Str Interp Cmp Prgs
+27,64,,,26096,Paul Hilfinger,,Computer Science,61A,1,No Credit,Non-Letter Grade,Not Pass,Str Interp Cmp Prgs
+30,1,,,26096,Paul Hilfinger,,Computer Science,61A,1,Administrative Code,Administrative Code,Incomplete,Str Interp Cmp Prgs
+1,3,,,26207,Paul Hilfinger,4,Computer Science,61AS,1,A,Letter Grade,A+,Str Interp Comp Prg
+2,4,,,26207,Paul Hilfinger,4,Computer Science,61AS,1,A,Letter Grade,A,Str Interp Comp Prg
+3,1,,,26207,Paul Hilfinger,3.7,Computer Science,61AS,1,A,Letter Grade,A-,Str Interp Comp Prg
+4,7,,,26207,Paul Hilfinger,3.3,Computer Science,61AS,1,B,Letter Grade,B+,Str Interp Comp Prg
+5,6,,,26207,Paul Hilfinger,3,Computer Science,61AS,1,B,Letter Grade,B,Str Interp Comp Prg
+6,3,,,26207,Paul Hilfinger,2.7,Computer Science,61AS,1,B,Letter Grade,B-,Str Interp Comp Prg
+7,1,,,26207,Paul Hilfinger,2.3,Computer Science,61AS,1,C,Letter Grade,C+,Str Interp Comp Prg
+9,1,,,26207,Paul Hilfinger,1.7,Computer Science,61AS,1,C,Letter Grade,C-,Str Interp Comp Prg
+11,1,,,26207,Paul Hilfinger,1,Computer Science,61AS,1,D,Letter Grade,D,Str Interp Comp Prg
+13,4,,,26207,Paul Hilfinger,0,Computer Science,61AS,1,F,Letter Grade,F,Str Interp Comp Prg
+22,2,,,26207,Paul Hilfinger,,Computer Science,61AS,1,Credit,Non-Letter Grade,Pass,Str Interp Comp Prg
+30,2,,,26207,Paul Hilfinger,,Computer Science,61AS,1,Administrative Code,Administrative Code,Incomplete,Str Interp Comp Prg
+1,1,,,26210,Paul Hilfinger,4,Computer Science,61AS,2,A,Letter Grade,A+,Str Interp Comp Prg
+2,4,,,26210,Paul Hilfinger,4,Computer Science,61AS,2,A,Letter Grade,A,Str Interp Comp Prg
+3,1,,,26210,Paul Hilfinger,3.7,Computer Science,61AS,2,A,Letter Grade,A-,Str Interp Comp Prg
+4,3,,,26210,Paul Hilfinger,3.3,Computer Science,61AS,2,B,Letter Grade,B+,Str Interp Comp Prg
+5,5,,,26210,Paul Hilfinger,3,Computer Science,61AS,2,B,Letter Grade,B,Str Interp Comp Prg
+6,1,,,26210,Paul Hilfinger,2.7,Computer Science,61AS,2,B,Letter Grade,B-,Str Interp Comp Prg
+8,1,,,26210,Paul Hilfinger,2,Computer Science,61AS,2,C,Letter Grade,C,Str Interp Comp Prg
+10,2,,,26210,Paul Hilfinger,1.3,Computer Science,61AS,2,D,Letter Grade,D+,Str Interp Comp Prg
+12,1,,,26210,Paul Hilfinger,0.7,Computer Science,61AS,2,D,Letter Grade,D-,Str Interp Comp Prg
+13,2,,,26210,Paul Hilfinger,0,Computer Science,61AS,2,F,Letter Grade,F,Str Interp Comp Prg
+22,3,,,26210,Paul Hilfinger,,Computer Science,61AS,2,Credit,Non-Letter Grade,Pass,Str Interp Comp Prg
+25,1,,,26210,Paul Hilfinger,,Computer Science,61AS,2,Credit,Non-Letter Grade,Satisfactory,Str Interp Comp Prg
+27,5,,,26210,Paul Hilfinger,,Computer Science,61AS,2,No Credit,Non-Letter Grade,Not Pass,Str Interp Comp Prg
+30,3,,,26210,Paul Hilfinger,,Computer Science,61AS,2,Administrative Code,Administrative Code,Incomplete,Str Interp Comp Prg
+1,5,,,26213,Paul Hilfinger,4,Computer Science,61AS,3,A,Letter Grade,A+,Str Interp Comp Prg
+3,3,,,26213,Paul Hilfinger,3.7,Computer Science,61AS,3,A,Letter Grade,A-,Str Interp Comp Prg
+4,5,,,26213,Paul Hilfinger,3.3,Computer Science,61AS,3,B,Letter Grade,B+,Str Interp Comp Prg
+5,3,,,26213,Paul Hilfinger,3,Computer Science,61AS,3,B,Letter Grade,B,Str Interp Comp Prg
+6,2,,,26213,Paul Hilfinger,2.7,Computer Science,61AS,3,B,Letter Grade,B-,Str Interp Comp Prg
+7,2,,,26213,Paul Hilfinger,2.3,Computer Science,61AS,3,C,Letter Grade,C+,Str Interp Comp Prg
+9,1,,,26213,Paul Hilfinger,1.7,Computer Science,61AS,3,C,Letter Grade,C-,Str Interp Comp Prg
+10,4,,,26213,Paul Hilfinger,1.3,Computer Science,61AS,3,D,Letter Grade,D+,Str Interp Comp Prg
+13,5,,,26213,Paul Hilfinger,0,Computer Science,61AS,3,F,Letter Grade,F,Str Interp Comp Prg
+22,1,,,26213,Paul Hilfinger,,Computer Science,61AS,3,Credit,Non-Letter Grade,Pass,Str Interp Comp Prg
+27,1,,,26213,Paul Hilfinger,,Computer Science,61AS,3,No Credit,Non-Letter Grade,Not Pass,Str Interp Comp Prg
+30,2,,,26213,Paul Hilfinger,,Computer Science,61AS,3,Administrative Code,Administrative Code,Incomplete,Str Interp Comp Prg
+1,2,,,26215,Paul Hilfinger,4,Computer Science,61AS,4,A,Letter Grade,A+,Str Interp Comp Prg
+2,3,,,26215,Paul Hilfinger,4,Computer Science,61AS,4,A,Letter Grade,A,Str Interp Comp Prg
+3,1,,,26215,Paul Hilfinger,3.7,Computer Science,61AS,4,A,Letter Grade,A-,Str Interp Comp Prg
+4,3,,,26215,Paul Hilfinger,3.3,Computer Science,61AS,4,B,Letter Grade,B+,Str Interp Comp Prg
+6,2,,,26215,Paul Hilfinger,2.7,Computer Science,61AS,4,B,Letter Grade,B-,Str Interp Comp Prg
+10,1,,,26215,Paul Hilfinger,1.3,Computer Science,61AS,4,D,Letter Grade,D+,Str Interp Comp Prg
+11,2,,,26215,Paul Hilfinger,1,Computer Science,61AS,4,D,Letter Grade,D,Str Interp Comp Prg
+13,2,,,26215,Paul Hilfinger,0,Computer Science,61AS,4,F,Letter Grade,F,Str Interp Comp Prg
+27,4,,,26215,Paul Hilfinger,,Computer Science,61AS,4,No Credit,Non-Letter Grade,Not Pass,Str Interp Comp Prg
+30,5,,,26215,Paul Hilfinger,,Computer Science,61AS,4,Administrative Code,Administrative Code,Incomplete,Str Interp Comp Prg
+1,81,,,26216,Jonathan Shewchuk,4,Computer Science,61B,1,A,Letter Grade,A+,Data Structures
+2,147,,,26216,Jonathan Shewchuk,4,Computer Science,61B,1,A,Letter Grade,A,Data Structures
+3,178,,,26216,Jonathan Shewchuk,3.7,Computer Science,61B,1,A,Letter Grade,A-,Data Structures
+4,133,,,26216,Jonathan Shewchuk,3.3,Computer Science,61B,1,B,Letter Grade,B+,Data Structures
+5,98,,,26216,Jonathan Shewchuk,3,Computer Science,61B,1,B,Letter Grade,B,Data Structures
+6,69,,,26216,Jonathan Shewchuk,2.7,Computer Science,61B,1,B,Letter Grade,B-,Data Structures
+7,45,,,26216,Jonathan Shewchuk,2.3,Computer Science,61B,1,C,Letter Grade,C+,Data Structures
+8,38,,,26216,Jonathan Shewchuk,2,Computer Science,61B,1,C,Letter Grade,C,Data Structures
+9,18,,,26216,Jonathan Shewchuk,1.7,Computer Science,61B,1,C,Letter Grade,C-,Data Structures
+11,13,,,26216,Jonathan Shewchuk,1,Computer Science,61B,1,D,Letter Grade,D,Data Structures
+12,9,,,26216,Jonathan Shewchuk,0.7,Computer Science,61B,1,D,Letter Grade,D-,Data Structures
+13,40,,,26216,Jonathan Shewchuk,0,Computer Science,61B,1,F,Letter Grade,F,Data Structures
+22,28,,,26216,Jonathan Shewchuk,,Computer Science,61B,1,Credit,Non-Letter Grade,Pass,Data Structures
+27,23,,,26216,Jonathan Shewchuk,,Computer Science,61B,1,No Credit,Non-Letter Grade,Not Pass,Data Structures
+30,1,,,26216,Jonathan Shewchuk,,Computer Science,61B,1,Administrative Code,Administrative Code,Incomplete,Data Structures
+1,18,,,26333,Daniel Garcia,4,Computer Science,61C,1,A,Letter Grade,A+,Machine Structures
+2,53,,,26333,Daniel Garcia,4,Computer Science,61C,1,A,Letter Grade,A,Machine Structures
+3,28,,,26333,Daniel Garcia,3.7,Computer Science,61C,1,A,Letter Grade,A-,Machine Structures
+4,42,,,26333,Daniel Garcia,3.3,Computer Science,61C,1,B,Letter Grade,B+,Machine Structures
+5,55,,,26333,Daniel Garcia,3,Computer Science,61C,1,B,Letter Grade,B,Machine Structures
+6,35,,,26333,Daniel Garcia,2.7,Computer Science,61C,1,B,Letter Grade,B-,Machine Structures
+7,49,,,26333,Daniel Garcia,2.3,Computer Science,61C,1,C,Letter Grade,C+,Machine Structures
+8,29,,,26333,Daniel Garcia,2,Computer Science,61C,1,C,Letter Grade,C,Machine Structures
+9,9,,,26333,Daniel Garcia,1.7,Computer Science,61C,1,C,Letter Grade,C-,Machine Structures
+11,26,,,26333,Daniel Garcia,1,Computer Science,61C,1,D,Letter Grade,D,Machine Structures
+13,14,,,26333,Daniel Garcia,0,Computer Science,61C,1,F,Letter Grade,F,Machine Structures
+22,4,,,26333,Daniel Garcia,,Computer Science,61C,1,Credit,Non-Letter Grade,Pass,Machine Structures
+27,5,,,26333,Daniel Garcia,,Computer Science,61C,1,No Credit,Non-Letter Grade,Not Pass,Machine Structures
+30,4,,,26333,Daniel Garcia,,Computer Science,61C,1,Administrative Code,Administrative Code,Incomplete,Machine Structures
+1,12,,,26420,Anant Sahai,4,Computer Science,70,1,A,Letter Grade,A+,Discrete Math&Prob
+2,103,,,26420,Anant Sahai,4,Computer Science,70,1,A,Letter Grade,A,Discrete Math&Prob
+3,79,,,26420,Anant Sahai,3.7,Computer Science,70,1,A,Letter Grade,A-,Discrete Math&Prob
+4,63,,,26420,Anant Sahai,3.3,Computer Science,70,1,B,Letter Grade,B+,Discrete Math&Prob
+5,66,,,26420,Anant Sahai,3,Computer Science,70,1,B,Letter Grade,B,Discrete Math&Prob
+6,53,,,26420,Anant Sahai,2.7,Computer Science,70,1,B,Letter Grade,B-,Discrete Math&Prob
+7,47,,,26420,Anant Sahai,2.3,Computer Science,70,1,C,Letter Grade,C+,Discrete Math&Prob
+8,26,,,26420,Anant Sahai,2,Computer Science,70,1,C,Letter Grade,C,Discrete Math&Prob
+9,18,,,26420,Anant Sahai,1.7,Computer Science,70,1,C,Letter Grade,C-,Discrete Math&Prob
+10,13,,,26420,Anant Sahai,1.3,Computer Science,70,1,D,Letter Grade,D+,Discrete Math&Prob
+11,5,,,26420,Anant Sahai,1,Computer Science,70,1,D,Letter Grade,D,Discrete Math&Prob
+13,6,,,26420,Anant Sahai,0,Computer Science,70,1,F,Letter Grade,F,Discrete Math&Prob
+22,5,,,26420,Anant Sahai,,Computer Science,70,1,Credit,Non-Letter Grade,Pass,Discrete Math&Prob
+27,22,,,26420,Anant Sahai,,Computer Science,70,1,No Credit,Non-Letter Grade,Not Pass,Discrete Math&Prob
+30,10,,,26420,Anant Sahai,,Computer Science,70,1,Administrative Code,Administrative Code,Incomplete,Discrete Math&Prob
+22,30,,,26474,Daniel Garcia,,Computer Science,97,200,Credit,Non-Letter Grade,Pass,Field Study
+30,1,,,26474,Daniel Garcia,,Computer Science,97,200,Administrative Code,Administrative Code,Incomplete,Field Study
+22,37,,,26477,Paul Hilfinger,,Computer Science,97,201,Credit,Non-Letter Grade,Pass,Field Study
+22,9,,,26483,Jonathan Shewchuk,,Computer Science,97,203,Credit,Non-Letter Grade,Pass,Field Study
+22,13,,,26485,David Culler,,Computer Science,97,204,Credit,Non-Letter Grade,Pass,Field Study
+30,8,,,26485,David Culler,,Computer Science,97,204,Administrative Code,Administrative Code,Incomplete,Field Study
+22,9,,,26486,Daniel Garcia; Glenn Sugden,,Computer Science,98,1,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,1,,,26486,Daniel Garcia; Glenn Sugden,,Computer Science,98,1,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,3,,,26489,Daniel Garcia,,Computer Science,98,2,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,1,,,26489,Daniel Garcia,,Computer Science,98,2,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,22,,,26492,Daniel Garcia,,Computer Science,98,3,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+30,1,,,26492,Daniel Garcia,,Computer Science,98,3,Administrative Code,Administrative Code,Incomplete,Directed Group Stdy
+22,34,,,26493,Bjorn Hartmann; Jiafu Zhan; Si Park,,Computer Science,98,32,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,2,,,26493,Bjorn Hartmann; Jiafu Zhan; Si Park,,Computer Science,98,32,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,10,,,26494,Abhay Parekh; Dylan Paddock; Kyle Lian,,Computer Science,98,36,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,16,,,26510,Daniel Garcia,,Computer Science,99,6,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,15,,,26516,Brian Harvey,,Computer Science,99,9,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26527,Kannan Ramchandran,,Computer Science,99,16,Credit,Non-Letter Grade,Pass,Superv Indep Study
+1,2,,,26540,John Lazzaro,4,Computer Science,152,1,A,Letter Grade,A+,Comp Arch & Eng
+2,3,,,26540,John Lazzaro,4,Computer Science,152,1,A,Letter Grade,A,Comp Arch & Eng
+3,3,,,26540,John Lazzaro,3.7,Computer Science,152,1,A,Letter Grade,A-,Comp Arch & Eng
+4,11,,,26540,John Lazzaro,3.3,Computer Science,152,1,B,Letter Grade,B+,Comp Arch & Eng
+5,17,,,26540,John Lazzaro,3,Computer Science,152,1,B,Letter Grade,B,Comp Arch & Eng
+6,5,,,26540,John Lazzaro,2.7,Computer Science,152,1,B,Letter Grade,B-,Comp Arch & Eng
+7,2,,,26540,John Lazzaro,2.3,Computer Science,152,1,C,Letter Grade,C+,Comp Arch & Eng
+13,1,,,26540,John Lazzaro,0,Computer Science,152,1,F,Letter Grade,F,Comp Arch & Eng
+22,2,,,26540,John Lazzaro,,Computer Science,152,1,Credit,Non-Letter Grade,Pass,Comp Arch & Eng
+27,2,,,26540,John Lazzaro,,Computer Science,152,1,No Credit,Non-Letter Grade,Not Pass,Comp Arch & Eng
+2,10,,,26546,Bjorn Hartmann; Maneesh Agrawala,4,Computer Science,160,1,A,Letter Grade,A,User Interfaces
+3,22,,,26546,Bjorn Hartmann; Maneesh Agrawala,3.7,Computer Science,160,1,A,Letter Grade,A-,User Interfaces
+4,22,,,26546,Bjorn Hartmann; Maneesh Agrawala,3.3,Computer Science,160,1,B,Letter Grade,B+,User Interfaces
+5,17,,,26546,Bjorn Hartmann; Maneesh Agrawala,3,Computer Science,160,1,B,Letter Grade,B,User Interfaces
+6,5,,,26546,Bjorn Hartmann; Maneesh Agrawala,2.7,Computer Science,160,1,B,Letter Grade,B-,User Interfaces
+7,5,,,26546,Bjorn Hartmann; Maneesh Agrawala,2.3,Computer Science,160,1,C,Letter Grade,C+,User Interfaces
+22,4,,,26546,Bjorn Hartmann; Maneesh Agrawala,,Computer Science,160,1,Credit,Non-Letter Grade,Pass,User Interfaces
+1,6,,,26561,David Wagner,4,Computer Science,161,1,A,Letter Grade,A+,Computer Security
+2,73,,,26561,David Wagner,4,Computer Science,161,1,A,Letter Grade,A,Computer Security
+3,8,,,26561,David Wagner,3.7,Computer Science,161,1,A,Letter Grade,A-,Computer Security
+4,67,,,26561,David Wagner,3.3,Computer Science,161,1,B,Letter Grade,B+,Computer Security
+5,83,,,26561,David Wagner,3,Computer Science,161,1,B,Letter Grade,B,Computer Security
+6,38,,,26561,David Wagner,2.7,Computer Science,161,1,B,Letter Grade,B-,Computer Security
+7,41,,,26561,David Wagner,2.3,Computer Science,161,1,C,Letter Grade,C+,Computer Security
+8,23,,,26561,David Wagner,2,Computer Science,161,1,C,Letter Grade,C,Computer Security
+9,2,,,26561,David Wagner,1.7,Computer Science,161,1,C,Letter Grade,C-,Computer Security
+11,6,,,26561,David Wagner,1,Computer Science,161,1,D,Letter Grade,D,Computer Security
+13,5,,,26561,David Wagner,0,Computer Science,161,1,F,Letter Grade,F,Computer Security
+22,11,,,26561,David Wagner,,Computer Science,161,1,Credit,Non-Letter Grade,Pass,Computer Security
+27,1,,,26561,David Wagner,,Computer Science,161,1,No Credit,Non-Letter Grade,Not Pass,Computer Security
+30,1,,,26561,David Wagner,,Computer Science,161,1,Administrative Code,Administrative Code,Incomplete,Computer Security
+32,1,,,26561,David Wagner,,Computer Science,161,1,Administrative Code,Administrative Code,Not Reported,Computer Security
+1,3,,,26600,Anthony Joseph,4,Computer Science,162,1,A,Letter Grade,A+,Op Sys And Sys Prog
+2,74,,,26600,Anthony Joseph,4,Computer Science,162,1,A,Letter Grade,A,Op Sys And Sys Prog
+3,29,,,26600,Anthony Joseph,3.7,Computer Science,162,1,A,Letter Grade,A-,Op Sys And Sys Prog
+4,25,,,26600,Anthony Joseph,3.3,Computer Science,162,1,B,Letter Grade,B+,Op Sys And Sys Prog
+5,60,,,26600,Anthony Joseph,3,Computer Science,162,1,B,Letter Grade,B,Op Sys And Sys Prog
+6,30,,,26600,Anthony Joseph,2.7,Computer Science,162,1,B,Letter Grade,B-,Op Sys And Sys Prog
+7,22,,,26600,Anthony Joseph,2.3,Computer Science,162,1,C,Letter Grade,C+,Op Sys And Sys Prog
+8,23,,,26600,Anthony Joseph,2,Computer Science,162,1,C,Letter Grade,C,Op Sys And Sys Prog
+9,10,,,26600,Anthony Joseph,1.7,Computer Science,162,1,C,Letter Grade,C-,Op Sys And Sys Prog
+10,2,,,26600,Anthony Joseph,1.3,Computer Science,162,1,D,Letter Grade,D+,Op Sys And Sys Prog
+11,1,,,26600,Anthony Joseph,1,Computer Science,162,1,D,Letter Grade,D,Op Sys And Sys Prog
+13,1,,,26600,Anthony Joseph,0,Computer Science,162,1,F,Letter Grade,F,Op Sys And Sys Prog
+22,6,,,26600,Anthony Joseph,,Computer Science,162,1,Credit,Non-Letter Grade,Pass,Op Sys And Sys Prog
+25,1,,,26600,Anthony Joseph,,Computer Science,162,1,Credit,Non-Letter Grade,Satisfactory,Op Sys And Sys Prog
+27,1,,,26600,Anthony Joseph,,Computer Science,162,1,No Credit,Non-Letter Grade,Not Pass,Op Sys And Sys Prog
+1,4,,,26627,Koushik Sen,4,Computer Science,164,1,A,Letter Grade,A+,Prog Lang And Comp
+2,12,,,26627,Koushik Sen,4,Computer Science,164,1,A,Letter Grade,A,Prog Lang And Comp
+3,4,,,26627,Koushik Sen,3.7,Computer Science,164,1,A,Letter Grade,A-,Prog Lang And Comp
+4,18,,,26627,Koushik Sen,3.3,Computer Science,164,1,B,Letter Grade,B+,Prog Lang And Comp
+5,19,,,26627,Koushik Sen,3,Computer Science,164,1,B,Letter Grade,B,Prog Lang And Comp
+6,7,,,26627,Koushik Sen,2.7,Computer Science,164,1,B,Letter Grade,B-,Prog Lang And Comp
+7,7,,,26627,Koushik Sen,2.3,Computer Science,164,1,C,Letter Grade,C+,Prog Lang And Comp
+8,5,,,26627,Koushik Sen,2,Computer Science,164,1,C,Letter Grade,C,Prog Lang And Comp
+9,4,,,26627,Koushik Sen,1.7,Computer Science,164,1,C,Letter Grade,C-,Prog Lang And Comp
+10,1,,,26627,Koushik Sen,1.3,Computer Science,164,1,D,Letter Grade,D+,Prog Lang And Comp
+13,4,,,26627,Koushik Sen,0,Computer Science,164,1,F,Letter Grade,F,Prog Lang And Comp
+22,3,,,26627,Koushik Sen,,Computer Science,164,1,Credit,Non-Letter Grade,Pass,Prog Lang And Comp
+27,2,,,26627,Koushik Sen,,Computer Science,164,1,No Credit,Non-Letter Grade,Not Pass,Prog Lang And Comp
+1,4,,,26639,George Necula,4,Computer Science,169,1,A,Letter Grade,A+,Software Engineer
+2,6,,,26639,George Necula,4,Computer Science,169,1,A,Letter Grade,A,Software Engineer
+3,9,,,26639,George Necula,3.7,Computer Science,169,1,A,Letter Grade,A-,Software Engineer
+4,11,,,26639,George Necula,3.3,Computer Science,169,1,B,Letter Grade,B+,Software Engineer
+5,39,,,26639,George Necula,3,Computer Science,169,1,B,Letter Grade,B,Software Engineer
+6,12,,,26639,George Necula,2.7,Computer Science,169,1,B,Letter Grade,B-,Software Engineer
+7,6,,,26639,George Necula,2.3,Computer Science,169,1,C,Letter Grade,C+,Software Engineer
+8,3,,,26639,George Necula,2,Computer Science,169,1,C,Letter Grade,C,Software Engineer
+9,4,,,26639,George Necula,1.7,Computer Science,169,1,C,Letter Grade,C-,Software Engineer
+10,5,,,26639,George Necula,1.3,Computer Science,169,1,D,Letter Grade,D+,Software Engineer
+13,4,,,26639,George Necula,0,Computer Science,169,1,F,Letter Grade,F,Software Engineer
+1,12,,,26651,Elchanan Mossel,4,Computer Science,170,1,A,Letter Grade,A+,Intro Cs Theory
+2,45,,,26651,Elchanan Mossel,4,Computer Science,170,1,A,Letter Grade,A,Intro Cs Theory
+3,44,,,26651,Elchanan Mossel,3.7,Computer Science,170,1,A,Letter Grade,A-,Intro Cs Theory
+4,55,,,26651,Elchanan Mossel,3.3,Computer Science,170,1,B,Letter Grade,B+,Intro Cs Theory
+5,65,,,26651,Elchanan Mossel,3,Computer Science,170,1,B,Letter Grade,B,Intro Cs Theory
+6,67,,,26651,Elchanan Mossel,2.7,Computer Science,170,1,B,Letter Grade,B-,Intro Cs Theory
+7,40,,,26651,Elchanan Mossel,2.3,Computer Science,170,1,C,Letter Grade,C+,Intro Cs Theory
+8,37,,,26651,Elchanan Mossel,2,Computer Science,170,1,C,Letter Grade,C,Intro Cs Theory
+9,14,,,26651,Elchanan Mossel,1.7,Computer Science,170,1,C,Letter Grade,C-,Intro Cs Theory
+13,5,,,26651,Elchanan Mossel,0,Computer Science,170,1,F,Letter Grade,F,Intro Cs Theory
+22,22,,,26651,Elchanan Mossel,,Computer Science,170,1,Credit,Non-Letter Grade,Pass,Intro Cs Theory
+27,10,,,26651,Elchanan Mossel,,Computer Science,170,1,No Credit,Non-Letter Grade,Not Pass,Intro Cs Theory
+30,1,,,26651,Elchanan Mossel,,Computer Science,170,1,Administrative Code,Administrative Code,Incomplete,Intro Cs Theory
+1,2,,,26684,Guy Kindler,4,Computer Science,174,1,A,Letter Grade,A+,Comb And Disc Prob
+2,6,,,26684,Guy Kindler,4,Computer Science,174,1,A,Letter Grade,A,Comb And Disc Prob
+3,4,,,26684,Guy Kindler,3.7,Computer Science,174,1,A,Letter Grade,A-,Comb And Disc Prob
+4,5,,,26684,Guy Kindler,3.3,Computer Science,174,1,B,Letter Grade,B+,Comb And Disc Prob
+5,4,,,26684,Guy Kindler,3,Computer Science,174,1,B,Letter Grade,B,Comb And Disc Prob
+6,7,,,26684,Guy Kindler,2.7,Computer Science,174,1,B,Letter Grade,B-,Comb And Disc Prob
+7,5,,,26684,Guy Kindler,2.3,Computer Science,174,1,C,Letter Grade,C+,Comb And Disc Prob
+8,2,,,26684,Guy Kindler,2,Computer Science,174,1,C,Letter Grade,C,Comb And Disc Prob
+13,3,,,26684,Guy Kindler,0,Computer Science,174,1,F,Letter Grade,F,Comb And Disc Prob
+22,2,,,26684,Guy Kindler,,Computer Science,174,1,Credit,Non-Letter Grade,Pass,Comb And Disc Prob
+27,4,,,26684,Guy Kindler,,Computer Science,174,1,No Credit,Non-Letter Grade,Not Pass,Comb And Disc Prob
+1,7,,,26693,James O'Brien,4,Computer Science,184,1,A,Letter Grade,A+,Computer Graphics
+2,19,,,26693,James O'Brien,4,Computer Science,184,1,A,Letter Grade,A,Computer Graphics
+3,9,,,26693,James O'Brien,3.7,Computer Science,184,1,A,Letter Grade,A-,Computer Graphics
+4,17,,,26693,James O'Brien,3.3,Computer Science,184,1,B,Letter Grade,B+,Computer Graphics
+5,13,,,26693,James O'Brien,3,Computer Science,184,1,B,Letter Grade,B,Computer Graphics
+6,14,,,26693,James O'Brien,2.7,Computer Science,184,1,B,Letter Grade,B-,Computer Graphics
+7,6,,,26693,James O'Brien,2.3,Computer Science,184,1,C,Letter Grade,C+,Computer Graphics
+8,2,,,26693,James O'Brien,2,Computer Science,184,1,C,Letter Grade,C,Computer Graphics
+9,3,,,26693,James O'Brien,1.7,Computer Science,184,1,C,Letter Grade,C-,Computer Graphics
+11,1,,,26693,James O'Brien,1,Computer Science,184,1,D,Letter Grade,D,Computer Graphics
+13,2,,,26693,James O'Brien,0,Computer Science,184,1,F,Letter Grade,F,Computer Graphics
+22,2,,,26693,James O'Brien,,Computer Science,184,1,Credit,Non-Letter Grade,Pass,Computer Graphics
+30,1,,,26693,James O'Brien,,Computer Science,184,1,Administrative Code,Administrative Code,Incomplete,Computer Graphics
+1,4,,,26708,Dan Olteanu,4,Computer Science,186,1,A,Letter Grade,A+,Intro To Database
+2,17,,,26708,Dan Olteanu,4,Computer Science,186,1,A,Letter Grade,A,Intro To Database
+3,6,,,26708,Dan Olteanu,3.7,Computer Science,186,1,A,Letter Grade,A-,Intro To Database
+4,7,,,26708,Dan Olteanu,3.3,Computer Science,186,1,B,Letter Grade,B+,Intro To Database
+5,42,,,26708,Dan Olteanu,3,Computer Science,186,1,B,Letter Grade,B,Intro To Database
+6,3,,,26708,Dan Olteanu,2.7,Computer Science,186,1,B,Letter Grade,B-,Intro To Database
+7,4,,,26708,Dan Olteanu,2.3,Computer Science,186,1,C,Letter Grade,C+,Intro To Database
+8,12,,,26708,Dan Olteanu,2,Computer Science,186,1,C,Letter Grade,C,Intro To Database
+9,4,,,26708,Dan Olteanu,1.7,Computer Science,186,1,C,Letter Grade,C-,Intro To Database
+11,3,,,26708,Dan Olteanu,1,Computer Science,186,1,D,Letter Grade,D,Intro To Database
+22,1,,,26708,Dan Olteanu,,Computer Science,186,1,Credit,Non-Letter Grade,Pass,Intro To Database
+27,3,,,26708,Dan Olteanu,,Computer Science,186,1,No Credit,Non-Letter Grade,Not Pass,Intro To Database
+1,10,,,26723,Pieter Abbeel,4,Computer Science,188,1,A,Letter Grade,A+,Artif Intelligence
+2,43,,,26723,Pieter Abbeel,4,Computer Science,188,1,A,Letter Grade,A,Artif Intelligence
+3,63,,,26723,Pieter Abbeel,3.7,Computer Science,188,1,A,Letter Grade,A-,Artif Intelligence
+4,67,,,26723,Pieter Abbeel,3.3,Computer Science,188,1,B,Letter Grade,B+,Artif Intelligence
+5,96,,,26723,Pieter Abbeel,3,Computer Science,188,1,B,Letter Grade,B,Artif Intelligence
+6,88,,,26723,Pieter Abbeel,2.7,Computer Science,188,1,B,Letter Grade,B-,Artif Intelligence
+7,38,,,26723,Pieter Abbeel,2.3,Computer Science,188,1,C,Letter Grade,C+,Artif Intelligence
+8,21,,,26723,Pieter Abbeel,2,Computer Science,188,1,C,Letter Grade,C,Artif Intelligence
+9,4,,,26723,Pieter Abbeel,1.7,Computer Science,188,1,C,Letter Grade,C-,Artif Intelligence
+13,3,,,26723,Pieter Abbeel,0,Computer Science,188,1,F,Letter Grade,F,Artif Intelligence
+22,3,,,26723,Pieter Abbeel,,Computer Science,188,1,Credit,Non-Letter Grade,Pass,Artif Intelligence
+27,1,,,26723,Pieter Abbeel,,Computer Science,188,1,No Credit,Non-Letter Grade,Not Pass,Artif Intelligence
+30,3,,,26723,Pieter Abbeel,,Computer Science,188,1,Administrative Code,Administrative Code,Incomplete,Artif Intelligence
+1,11,,,26750,Alexei Efros; Jitendra Malik,4,Computer Science,189,1,A,Letter Grade,A+,Intro Machine Learn
+2,56,,,26750,Alexei Efros; Jitendra Malik,4,Computer Science,189,1,A,Letter Grade,A,Intro Machine Learn
+3,37,,,26750,Alexei Efros; Jitendra Malik,3.7,Computer Science,189,1,A,Letter Grade,A-,Intro Machine Learn
+4,16,,,26750,Alexei Efros; Jitendra Malik,3.3,Computer Science,189,1,B,Letter Grade,B+,Intro Machine Learn
+5,9,,,26750,Alexei Efros; Jitendra Malik,3,Computer Science,189,1,B,Letter Grade,B,Intro Machine Learn
+6,3,,,26750,Alexei Efros; Jitendra Malik,2.7,Computer Science,189,1,B,Letter Grade,B-,Intro Machine Learn
+8,1,,,26750,Alexei Efros; Jitendra Malik,2,Computer Science,189,1,C,Letter Grade,C,Intro Machine Learn
+11,2,,,26750,Alexei Efros; Jitendra Malik,1,Computer Science,189,1,D,Letter Grade,D,Intro Machine Learn
+22,15,,,26750,Alexei Efros; Jitendra Malik,,Computer Science,189,1,Credit,Non-Letter Grade,Pass,Intro Machine Learn
+27,4,,,26750,Alexei Efros; Jitendra Malik,,Computer Science,189,1,No Credit,Non-Letter Grade,Not Pass,Intro Machine Learn
+1,1,,,26774,Michael Franklin,4,Computer Science,194,16,A,Letter Grade,A+,Special Topics
+2,19,,,26774,Michael Franklin,4,Computer Science,194,16,A,Letter Grade,A,Special Topics
+3,13,,,26774,Michael Franklin,3.7,Computer Science,194,16,A,Letter Grade,A-,Special Topics
+4,3,,,26774,Michael Franklin,3.3,Computer Science,194,16,B,Letter Grade,B+,Special Topics
+5,4,,,26774,Michael Franklin,3,Computer Science,194,16,B,Letter Grade,B,Special Topics
+6,9,,,26774,Michael Franklin,2.7,Computer Science,194,16,B,Letter Grade,B-,Special Topics
+8,3,,,26774,Michael Franklin,2,Computer Science,194,16,C,Letter Grade,C,Special Topics
+22,3,,,26774,Michael Franklin,,Computer Science,194,16,Credit,Non-Letter Grade,Pass,Special Topics
+1,1,,,26777,John Kubiatowicz,4,Computer Science,194,24,A,Letter Grade,A+,Special Topics
+2,3,,,26777,John Kubiatowicz,4,Computer Science,194,24,A,Letter Grade,A,Special Topics
+3,6,,,26777,John Kubiatowicz,3.7,Computer Science,194,24,A,Letter Grade,A-,Special Topics
+4,1,,,26777,John Kubiatowicz,3.3,Computer Science,194,24,B,Letter Grade,B+,Special Topics
+6,3,,,26777,John Kubiatowicz,2.7,Computer Science,194,24,B,Letter Grade,B-,Special Topics
+22,2,,,26777,John Kubiatowicz,,Computer Science,194,24,Credit,Non-Letter Grade,Pass,Special Topics
+22,151,,,26780,Ruzena Bajcsy,,Computer Science,195,1,Credit,Non-Letter Grade,Pass,Social Implic Comp
+27,2,,,26780,Ruzena Bajcsy,,Computer Science,195,1,No Credit,Non-Letter Grade,Not Pass,Social Implic Comp
+22,6,,,26783,Ruzena Bajcsy,,Computer Science,H195,1,Credit,Non-Letter Grade,Pass,Hon Soc Implic Comp
+27,1,,,26783,Ruzena Bajcsy,,Computer Science,H195,1,No Credit,Non-Letter Grade,Not Pass,Hon Soc Implic Comp
+22,12,,,26795,Paul Hilfinger,,Computer Science,197,1,Credit,Non-Letter Grade,Pass,Field Study
+22,1,,,26798,Paul Hilfinger,,Computer Science,197,4,Credit,Non-Letter Grade,Pass,Field Study
+22,8,,,26801,Daniel Garcia,,Computer Science,197,200,Credit,Non-Letter Grade,Pass,Field Study
+25,1,,,26801,Daniel Garcia,,Computer Science,197,200,Credit,Non-Letter Grade,Satisfactory,Field Study
+22,27,,,26804,Paul Hilfinger,,Computer Science,197,201,Credit,Non-Letter Grade,Pass,Field Study
+22,13,,,26810,Jonathan Shewchuk,,Computer Science,197,203,Credit,Non-Letter Grade,Pass,Field Study
+22,2,,,26813,David Culler,,Computer Science,197,204,Credit,Non-Letter Grade,Pass,Field Study
+22,24,,,26816,Daniel Garcia; Glenn Sugden,,Computer Science,198,1,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,15,,,26816,Daniel Garcia; Glenn Sugden,,Computer Science,198,1,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,8,,,26819,Daniel Garcia,,Computer Science,198,2,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,31,,,26822,Daniel Garcia,,Computer Science,198,3,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,1,,,26822,Daniel Garcia,,Computer Science,198,3,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,50,,,26823,Bjorn Hartmann; Jiafu Zhan; Si Park,,Computer Science,198,32,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,2,,,26823,Bjorn Hartmann; Jiafu Zhan; Si Park,,Computer Science,198,32,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,9,,,26824,Abhay Parekh; Dylan Paddock; Kyle Lian,,Computer Science,198,36,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,6,,,26825,Pieter Abbeel,,Computer Science,199,2,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26831,Krste Asanovic,,Computer Science,199,6,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26837,Ruzena Bajcsy,,Computer Science,199,8,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,26843,Rastislav Bodik,,Computer Science,199,12,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,26846,Eric Brewer,,Computer Science,199,14,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,6,,,26849,John Canny,,Computer Science,199,16,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26855,David Culler,,Computer Science,199,20,Credit,Non-Letter Grade,Pass,Superv Indep Study
+32,1,,,26855,David Culler,,Computer Science,199,20,Administrative Code,Administrative Code,Not Reported,Superv Indep Study
+22,1,,,26857,Trevor Darrell,,Computer Science,199,21,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26864,Armando Fox,,Computer Science,199,24,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,26870,Daniel Garcia,,Computer Science,199,28,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26873,Kenneth Goldberg,,Computer Science,199,30,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26876,Bjorn Hartmann,,Computer Science,199,31,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,6,,,26879,Brian Harvey,,Computer Science,199,32,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26882,Joseph Hellerstein,,Computer Science,199,34,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26885,Paul Hilfinger,,Computer Science,199,36,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26891,Anthony Joseph,,Computer Science,199,40,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26897,Randy Katz,,Computer Science,199,44,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26912,George Necula,,Computer Science,199,52,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26939,Satish Rao,,Computer Science,199,68,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26942,Sylvia Ratnasamy,,Computer Science,199,69,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26954,Sanjit Seshia,,Computer Science,199,76,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,4,,,26957,Scott Shenker,,Computer Science,199,78,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,26966,Xiaodong Song,,Computer Science,199,84,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,26984,David Wagner,,Computer Science,199,92,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,26996,Avideh Zakhor,,Computer Science,199,100,Credit,Non-Letter Grade,Pass,Superv Indep Study
+2,1,,,26999,Edward Lee,4,Computer Science,C219D,1,A,Letter Grade,A,Concurrent Mocs
+3,1,,,26999,Edward Lee,3.7,Computer Science,C219D,1,A,Letter Grade,A-,Concurrent Mocs
+25,1,,,26999,Edward Lee,,Computer Science,C219D,1,Credit,Non-Letter Grade,Satisfactory,Concurrent Mocs
+1,2,,,27002,Krste Asanovic,4,Computer Science,252,1,A,Letter Grade,A+,Grad Comput Arch
+2,6,,,27002,Krste Asanovic,4,Computer Science,252,1,A,Letter Grade,A,Grad Comput Arch
+4,5,,,27002,Krste Asanovic,3.3,Computer Science,252,1,B,Letter Grade,B+,Grad Comput Arch
+2,2,,,27005,Bjorn Hartmann; Maneesh Agrawala,4,Computer Science,260A,1,A,Letter Grade,A,User Interfaces
+3,1,,,27005,Bjorn Hartmann; Maneesh Agrawala,3.7,Computer Science,260A,1,A,Letter Grade,A-,User Interfaces
+4,2,,,27005,Bjorn Hartmann; Maneesh Agrawala,3.3,Computer Science,260A,1,B,Letter Grade,B+,User Interfaces
+5,1,,,27005,Bjorn Hartmann; Maneesh Agrawala,3,Computer Science,260A,1,B,Letter Grade,B,User Interfaces
+6,1,,,27005,Bjorn Hartmann; Maneesh Agrawala,2.7,Computer Science,260A,1,B,Letter Grade,B-,User Interfaces
+25,1,,,27005,Bjorn Hartmann; Maneesh Agrawala,,Computer Science,260A,1,Credit,Non-Letter Grade,Satisfactory,User Interfaces
+1,1,,,27008,Vern Paxson,4,Computer Science,261N,1,A,Letter Grade,A+,Internet Security
+2,3,,,27008,Vern Paxson,4,Computer Science,261N,1,A,Letter Grade,A,Internet Security
+3,3,,,27008,Vern Paxson,3.7,Computer Science,261N,1,A,Letter Grade,A-,Internet Security
+4,3,,,27008,Vern Paxson,3.3,Computer Science,261N,1,B,Letter Grade,B+,Internet Security
+5,1,,,27008,Vern Paxson,3,Computer Science,261N,1,B,Letter Grade,B,Internet Security
+6,1,,,27008,Vern Paxson,2.7,Computer Science,261N,1,B,Letter Grade,B-,Internet Security
+25,1,,,27008,Vern Paxson,,Computer Science,261N,1,Credit,Non-Letter Grade,Satisfactory,Internet Security
+1,1,,,27011,George Necula,4,Computer Science,263,1,A,Letter Grade,A+,Prog Lang Design
+2,6,,,27011,George Necula,4,Computer Science,263,1,A,Letter Grade,A,Prog Lang Design
+3,6,,,27011,George Necula,3.7,Computer Science,263,1,A,Letter Grade,A-,Prog Lang Design
+4,5,,,27011,George Necula,3.3,Computer Science,263,1,B,Letter Grade,B+,Prog Lang Design
+5,2,,,27011,George Necula,3,Computer Science,263,1,B,Letter Grade,B,Prog Lang Design
+7,1,,,27011,George Necula,2.3,Computer Science,263,1,C,Letter Grade,C+,Prog Lang Design
+2,26,,,27014,James Demmel,4,Computer Science,C267,1,A,Letter Grade,A,App Of Parallel Com
+3,13,,,27014,James Demmel,3.7,Computer Science,C267,1,A,Letter Grade,A-,App Of Parallel Com
+4,8,,,27014,James Demmel,3.3,Computer Science,C267,1,B,Letter Grade,B+,App Of Parallel Com
+22,1,,,27014,James Demmel,,Computer Science,C267,1,Credit,Non-Letter Grade,Pass,App Of Parallel Com
+25,1,,,27014,James Demmel,,Computer Science,C267,1,Credit,Non-Letter Grade,Satisfactory,App Of Parallel Com
+1,2,,,27017,Sylvia Ratnasamy,4,Computer Science,268,1,A,Letter Grade,A+,Computer Networks
+2,7,,,27017,Sylvia Ratnasamy,4,Computer Science,268,1,A,Letter Grade,A,Computer Networks
+3,5,,,27017,Sylvia Ratnasamy,3.7,Computer Science,268,1,A,Letter Grade,A-,Computer Networks
+1,3,,,27020,Prasad Raghavendra,4,Computer Science,278,1,A,Letter Grade,A+,Complexity Theory
+2,5,,,27020,Prasad Raghavendra,4,Computer Science,278,1,A,Letter Grade,A,Complexity Theory
+3,3,,,27020,Prasad Raghavendra,3.7,Computer Science,278,1,A,Letter Grade,A-,Complexity Theory
+4,1,,,27020,Prasad Raghavendra,3.3,Computer Science,278,1,B,Letter Grade,B+,Complexity Theory
+1,11,,,27023,Michael Jordan,4,Computer Science,C281A,1,A,Letter Grade,A+,Stat Learn Theory
+2,27,,,27023,Michael Jordan,4,Computer Science,C281A,1,A,Letter Grade,A,Stat Learn Theory
+3,21,,,27023,Michael Jordan,3.7,Computer Science,C281A,1,A,Letter Grade,A-,Stat Learn Theory
+4,8,,,27023,Michael Jordan,3.3,Computer Science,C281A,1,B,Letter Grade,B+,Stat Learn Theory
+5,2,,,27023,Michael Jordan,3,Computer Science,C281A,1,B,Letter Grade,B,Stat Learn Theory
+8,1,,,27023,Michael Jordan,2,Computer Science,C281A,1,C,Letter Grade,C,Stat Learn Theory
+25,11,,,27023,Michael Jordan,,Computer Science,C281A,1,Credit,Non-Letter Grade,Satisfactory,Stat Learn Theory
+28,1,,,27023,Michael Jordan,,Computer Science,C281A,1,No Credit,Non-Letter Grade,Unsatisfactory,Stat Learn Theory
+2,11,,,27026,Peter Bartlett,4,Computer Science,C281B,1,A,Letter Grade,A,Adv Learn & Design
+3,1,,,27026,Peter Bartlett,3.7,Computer Science,C281B,1,A,Letter Grade,A-,Adv Learn & Design
+25,1,,,27026,Peter Bartlett,,Computer Science,C281B,1,Credit,Non-Letter Grade,Satisfactory,Adv Learn & Design
+5,1,,,27029,James O'Brien,3,Computer Science,284A,1,B,Letter Grade,B,Computer Graphics
+6,1,,,27029,James O'Brien,2.7,Computer Science,284A,1,B,Letter Grade,B-,Computer Graphics
+25,1,,,27029,James O'Brien,,Computer Science,284A,1,Credit,Non-Letter Grade,Satisfactory,Computer Graphics
+1,2,,,27032,Alexei Efros; Jitendra Malik,4,Computer Science,289A,1,A,Letter Grade,A+,Intro Machine Learn
+2,19,,,27032,Alexei Efros; Jitendra Malik,4,Computer Science,289A,1,A,Letter Grade,A,Intro Machine Learn
+3,12,,,27032,Alexei Efros; Jitendra Malik,3.7,Computer Science,289A,1,A,Letter Grade,A-,Intro Machine Learn
+2,1,,,27034,Michael Franklin,4,Computer Science,294,16,A,Letter Grade,A,Special Topics
+3,1,,,27034,Michael Franklin,3.7,Computer Science,294,16,A,Letter Grade,A-,Special Topics
+25,1,,,27034,Michael Franklin,,Computer Science,294,16,Credit,Non-Letter Grade,Satisfactory,Special Topics
+2,13,,,27035,Christos Papadimitriou,4,Computer Science,294,17,A,Letter Grade,A,Special Topics
+25,1,,,27035,Christos Papadimitriou,,Computer Science,294,17,Credit,Non-Letter Grade,Satisfactory,Special Topics
+2,23,,,27036,Trevor Darrell,4,Computer Science,294,43,A,Letter Grade,A,Special Topics
+25,2,,,27036,Trevor Darrell,,Computer Science,294,43,Credit,Non-Letter Grade,Satisfactory,Special Topics
+31,1,,,27036,Trevor Darrell,,Computer Science,294,43,Administrative Code,Administrative Code,In Progress,Special Topics
+1,1,,,27037,Eric Paulos,4,Computer Science,294,85,A,Letter Grade,A+,Special Topics
+2,13,,,27037,Eric Paulos,4,Computer Science,294,85,A,Letter Grade,A,Special Topics
+3,7,,,27037,Eric Paulos,3.7,Computer Science,294,85,A,Letter Grade,A-,Special Topics
+25,7,,,27041,Umesh Vazirani,,Computer Science,298,2,Credit,Non-Letter Grade,Satisfactory,"Grp Std, Sem, Res"
+25,1,,,27044,David Culler,,Computer Science,298,3,Credit,Non-Letter Grade,Satisfactory,"Grp Std, Sem, Res"
+25,1,,,27047,James Demmel; Ming Gu,,Computer Science,298,6,Credit,Non-Letter Grade,Satisfactory,"Grp Std, Sem, Res"
+25,5,,,27053,Umesh Vazirani,,Computer Science,298,14,Credit,Non-Letter Grade,Satisfactory,"Grp Std, Sem, Res"
+25,11,,,27059,Pieter Abbeel,,Computer Science,299,2,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27062,Maneesh Agrawala,,Computer Science,299,4,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,14,,,27065,Krste Asanovic,,Computer Science,299,6,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,27067,Jonathan Bachrach,,Computer Science,299,7,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27068,Ruzena Bajcsy,,Computer Science,299,8,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27077,Rastislav Bodik,,Computer Science,299,14,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,7,,,27083,Eric Brewer,,Computer Science,299,18,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,4,,,27086,John Canny,,Computer Science,299,20,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27089,Phillip Colella,,Computer Science,299,22,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27092,David Culler,,Computer Science,299,24,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,8,,,27095,Trevor Darrell,,Computer Science,299,26,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,10,,,27098,James Demmel,,Computer Science,299,28,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27100,Alexei Efros,,Computer Science,299,29,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27101,Armando Fox,,Computer Science,299,30,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,9,,,27104,Michael Franklin,,Computer Science,299,32,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27107,Daniel Garcia,,Computer Science,299,34,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,5,,,27110,Kenneth Goldberg,,Computer Science,299,36,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27113,Bjorn Hartmann,,Computer Science,299,38,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,27116,Marti Hearst,,Computer Science,299,40,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27119,Joseph Hellerstein,,Computer Science,299,42,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27128,Michael Jordan,,Computer Science,299,51,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,4,,,27137,Randy Katz,,Computer Science,299,58,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,7,,,27140,Daniel Klein,,Computer Science,299,60,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27143,John Kubiatowicz,,Computer Science,299,63,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,8,,,27146,Jitendra Malik,,Computer Science,299,66,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+30,1,,,27146,Jitendra Malik,,Computer Science,299,66,Administrative Code,Administrative Code,Incomplete,Indiv Research
+25,1,,,27149,Nelson Morgan,,Computer Science,299,69,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,27152,Elchanan Mossel,,Computer Science,299,72,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27158,James O'Brien,,Computer Science,299,78,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,5,,,27161,Lior Pachter,,Computer Science,299,80,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27164,Christos Papadimitriou,,Computer Science,299,82,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27167,David Patterson,,Computer Science,299,84,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27169,Eric Paulos,,Computer Science,299,85,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,4,,,27170,Vern Paxson,,Computer Science,299,86,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,4,,,27173,Prasad Raghavendra,,Computer Science,299,87,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,5,,,27176,Ravi Ramamoorthi,,Computer Science,299,88,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,27179,Satish Rao,,Computer Science,299,89,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27182,Sylvia Ratnasamy,,Computer Science,299,91,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27185,Stuart Russell,,Computer Science,299,93,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,5,,,27188,Koushik Sen,,Computer Science,299,95,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,5,,,27197,Scott Shenker,,Computer Science,299,98,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,1,,,27200,Jonathan Shewchuk,,Computer Science,299,99,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27203,Alistair Sinclair,,Computer Science,299,102,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27206,Xiaodong Song,,Computer Science,299,106,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27209,Yun Song,,Computer Science,299,107,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,12,,,27212,Ion Stoica,,Computer Science,299,108,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,2,,,27215,Justin Tygar,,Computer Science,299,114,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27218,Umesh Vazirani,,Computer Science,299,117,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,7,,,27221,David Wagner,,Computer Science,299,120,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,6,,,27224,John Wawrzynek,,Computer Science,299,123,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+25,3,,,27227,Katherine Yelick,,Computer Science,299,129,Credit,Non-Letter Grade,Satisfactory,Indiv Research
+1,1,,,27233,Daniel Garcia,4,Computer Science,302,1,A,Letter Grade,A+,Designing Cs Educ
+2,2,,,27233,Daniel Garcia,4,Computer Science,302,1,A,Letter Grade,A,Designing Cs Educ
+3,1,,,27233,Daniel Garcia,3.7,Computer Science,302,1,A,Letter Grade,A-,Designing Cs Educ
+25,1,,,27233,Daniel Garcia,,Computer Science,302,1,Credit,Non-Letter Grade,Satisfactory,Designing Cs Educ
+22,30,,,27236,David Culler; Satish Rao,,Computer Science,375,1,Credit,Non-Letter Grade,Pass,Teaching Techniques
+25,17,,,27236,David Culler; Satish Rao,,Computer Science,375,1,Credit,Non-Letter Grade,Satisfactory,Teaching Techniques
+30,1,,,27236,David Culler; Satish Rao,,Computer Science,375,1,Administrative Code,Administrative Code,Incomplete,Teaching Techniques
+22,20,,,27248,Daniel Garcia,,Computer Science,399,7,Credit,Non-Letter Grade,Pass,Supervised Teaching
+22,6,,,27254,Anthony Joseph,,Computer Science,399,10,Credit,Non-Letter Grade,Pass,Supervised Teaching
+22,1,,,27266,George Necula,,Computer Science,399,14,Credit,Non-Letter Grade,Pass,Supervised Teaching
+22,5,,,27287,Jonathan Shewchuk,,Computer Science,399,22,Credit,Non-Letter Grade,Pass,Supervised Teaching
+25,1,,,27287,Jonathan Shewchuk,,Computer Science,399,22,Credit,Non-Letter Grade,Satisfactory,Supervised Teaching
+22,4,,,27293,Paul Hilfinger,,Computer Science,399,24,Credit,Non-Letter Grade,Pass,Supervised Teaching
+25,1,,,27293,Paul Hilfinger,,Computer Science,399,24,Credit,Non-Letter Grade,Satisfactory,Supervised Teaching
+22,1,,,27296,John Wawrzynek,,Computer Science,399,25,Credit,Non-Letter Grade,Pass,Supervised Teaching
+2,5,,,27302,Adam Wolisz; John Wawrzynek,4,Computer Science,294,97,A,Letter Grade,A,Special Topics
+22,11,,,27305,Dohyeong Kim; Jaihee Lee; Pieter Abbeel,,Computer Science,98,37,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,45,,,27308,Dohyeong Kim; Jaihee Lee; Pieter Abbeel,,Computer Science,198,37,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,5,,,27308,Dohyeong Kim; Jaihee Lee; Pieter Abbeel,,Computer Science,198,37,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,10,,,27341,Bjorn Hartmann; Elizabeth Lin,,Computer Science,98,34,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+27,1,,,27341,Bjorn Hartmann; Elizabeth Lin,,Computer Science,98,34,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+22,20,,,27344,Bjorn Hartmann; Elizabeth Lin,,Computer Science,198,34,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,33,,,27347,Bjorn Hartmann; Elizabeth Lin,,Computer Science,198,35,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,18,,,27349,Bjorn Hartmann; Elizabeth Lin,,Computer Science,98,35,Credit,Non-Letter Grade,Pass,Directed Group Stdy

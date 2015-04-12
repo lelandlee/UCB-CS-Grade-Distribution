@@ -275,7 +275,7 @@ function createGraph(data){
   var parcoords = d3.parcoords()("#chartArea")
 		.data(data)
     .color(color)
-    .alpha(0.30)
+    //.alpha(0.30)
     .margin({ top: 24, left: 160, bottom: 12, right: -30 })
     .mode("queue")
     .render()
